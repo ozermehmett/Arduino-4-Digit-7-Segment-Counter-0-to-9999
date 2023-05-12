@@ -10,7 +10,7 @@ The project involves connecting the Arduino board and the 4-digit 7 segment disp
 
 The circuit diagram below illustrates the connections between the Arduino board and the 4-digit 7 segment display:
 
-![7 segment 4 digit circuit](https://github.com/ozermehmett/Arduino-4-Digit-7-Segment-Counter-0-to-9999/assets/115498182/6dff3aa1-b5a4-430b-a632-0a8b84d3775a)
+![7 segment 4 digit circuit](https://github.com/ozermehmett/Arduino-4-Digit-7-Segment-Counter-0-to-9999/assets/115498182/2fc33440-0edf-4cc6-8ce6-7330d6ea5387)
 
 
 ## Features
