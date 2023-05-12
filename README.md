@@ -32,7 +32,7 @@ To build this project, you will need the following components:
 1. Connect the 4-digit 7 segment display to the appropriate pins on the Arduino board based on the circuit diagram.
 2. Install the Arduino IDE if you haven't already.
 3. Clone or download this repository to your local machine.
-4. Open the Arduino sketch (`arduino_counter.ino`) in the Arduino IDE.
+4. Open the Arduino sketch (`0-9999.ino`) in the Arduino IDE.
 5. Connect your Arduino board to your computer using a USB cable.
 6. Select the correct board and port in the Arduino IDE.
 7. Click the "Upload" button to upload the sketch to the Arduino board.
