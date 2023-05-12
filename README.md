@@ -6,6 +6,9 @@ The Arduino 4-Digit 7 Segment Counter project utilizes an Arduino board and a 4-
 
 The project involves connecting the Arduino board and the 4-digit 7 segment display properly, and then uploading the provided Arduino sketch to the board. The sketch utilizes various functions to control the display of each digit on the 7 segment display.
 
+## Video
+[![Video Açıklaması](https://img.youtube.com/vi/ovZtJUdrcQU/0.jpg)](https://www.youtube.com/watch?v=ovZtJUdrcQU)
+
 ## Circuit Diagram
 
 The circuit diagram below illustrates the connections between the Arduino board and the 4-digit 7 segment display:
